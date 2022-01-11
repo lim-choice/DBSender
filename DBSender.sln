@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSender", "DBSender\DBSender.csproj", "{263B5CDE-BF51-4F0D-94FB-3F27F8EE81A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263B5CDE-BF51-4F0D-94FB-3F27F8EE81A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263B5CDE-BF51-4F0D-94FB-3F27F8EE81A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263B5CDE-BF51-4F0D-94FB-3F27F8EE81A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263B5CDE-BF51-4F0D-94FB-3F27F8EE81A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA99011-2CBC-4A88-9491-0660852C4C3D}
+	EndGlobalSection
+EndGlobal

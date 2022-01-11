@@ -7,7 +7,8 @@ DBSender
 
 XML 구조는 아래와 같다.
 
-    <?xml version="1.0" encoding="utf-8"?>
+```
+<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <!-- DB -->
   <Config>
@@ -75,3 +76,5 @@ XML 구조는 아래와 같다.
   </Rule>
   
 </Root>
+
+```

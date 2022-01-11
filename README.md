@@ -7,6 +7,8 @@ DBSender
 
 XML 구조는 아래와 같다.
 
+Rule에 시간은 Spring의 crontab 파라미터가 인상깊어 비스무리하게 따라해봤다.
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <Root>

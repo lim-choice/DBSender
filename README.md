@@ -5,10 +5,9 @@ DBSender
 
 로그 관리용으로 쓰일 수 있지 않을까 하고 생각하며 제작 (윈10)
 
+XML 구조는 아래와 같다.
 
-XML 구조는 아래와 같다
-
-<?xml version="1.0" encoding="utf-8"?>
+    <?xml version="1.0" encoding="utf-8"?>
 <Root>
   <!-- DB -->
   <Config>
